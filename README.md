@@ -3,5 +3,5 @@
   <a href=""https://github.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Systems+Development+Student;"></a>
 </p>
 <hr/>
-<h4 align="center">I am a student studying information systems development👨‍🎓
-Constantly looking for new opportunities to learn and grow in the field of technology. I am always ready to face new challenges.</h4>
+<h4 align="center">Systems Engineering student passionate about transforming ideas into technological solutions👨‍🎓.
+I am constantly learning, strengthening my skills and taking on new challenges that.</h4>
